@@ -1,0 +1,14 @@
+subtitle_offset : shift subtitle index
+--------------------------------------
+
+  usage: subtitle_offset.rb [--kick-tags] your_srt.srt seconds_to_shift
+
+  This will shift every subtitle by seconds_to_shift and produce a
+  your_srt.srt.shifted file.
+
+  If you add --kick-tags option, every TAG in the file will be removed.
+
+By Thomas "ook!" Lecavelier - http://thomas.lecavelier.name
+
+In memoriam Capucine, the most fabulous rabbit that I met (1996-09-01 - 2009-07-26)
+2010-07-26: one year later, it's still so painful, Capucine…
